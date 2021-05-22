@@ -1,0 +1,659 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"reso",
+				"resolve"
+			],
+			[
+				"re",
+				"RefreshAllShownItemValue"
+			],
+			[
+				"lott",
+				"lotteryItemList"
+			],
+			[
+				"fun",
+				"function\tfunction"
+			],
+			[
+				"sort",
+				"sortIndex"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/ChangJie.Qiu/AppData/Roaming/.doom.d/init.el",
+			"settings":
+			{
+				"buffer_size": 8551,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "modules/emacs/dired/config.el",
+			"settings":
+			{
+				"buffer_size": 7306,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/ChangJie.Qiu/AppData/Roaming/.doom.d/config.el",
+			"settings":
+			{
+				"buffer_size": 2404,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "core/autoload/debug.el",
+			"settings":
+			{
+				"buffer_size": 16544,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/H/workspace/飞车相关/飞车服务器地址.txt",
+			"settings":
+			{
+				"buffer_size": 4578,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/H/workspace/SpeedRace2/BombSpeedRace2/AssetBundles/Android/Default/manifest.bytes",
+			"settings":
+			{
+				"buffer_size": 2248691,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/H/learning/FPSSample/ProjectSettings/ProjectVersion.txt",
+		"/H/learning/FPSSample/Assets/Scripts/Game/Modules/Player/PlayerModuleServer.cs",
+		"/H/learning/FPSSample/Assets/Scripts/Game/Modules/Player/LocalPlayer.cs",
+		"/H/learning/FPSSample/Assets/Scripts/Game/Systems/Movable/Movable.cs",
+		"/H/learning/FPSSample/Assets/Scripts/Render/ParticleCulling.cs",
+		"/H/learning/FPSSample/Assets/Scripts/Networking/Compression/HuffmanInputStream.cs",
+		"/H/learning/FPSSample/Assets/Scripts/Game/Main/ClientGameLoop.cs",
+		"/H/learning/FPSSample/Assets/Scripts/ECS/BaseComponentDataSystem.cs",
+		"/H/workspace/SpeedRace2/Logger/Logger/Logger.csproj",
+		"/H/workspace/github/org/projects.org",
+		"/H/workspace/github/org/notes.org",
+		"/H/workspace/github/org/todo.org",
+		"/D/Software/doom-emacs-26.3/.emacs.d/docs/api.org",
+		"/H/workspace/SpeedRace2/BombSpeedRace2/Assets/StreamingAssets/AssetBundles/setting_data.bytes",
+		"/H/workspace/SpeedRace2/BombSpeedRace2/Assets/StreamingAssets/setting_data(1).bytes",
+		"/H/workspace/SpeedRace2/BombSpeedRace2/Assets/LuaScripts/Net/Config/ProtocolConfig.lua",
+		"/D/Software/doom-emacs-26.3/.emacs.d/.local/straight/repos/emacs-doom-themes/themes/doom-one-light-theme.el",
+		"/D/Software/doom-emacs-26.3/.emacs.d/.local/straight/repos/magit/lisp/magit.el",
+		"/H/learning/skynet/examples/login/gated.lua",
+		"/D/Software/doom-emacs-26.3/.emacs.d/modules/config/default/+evil-bindings.el",
+		"/D/Software/doom-emacs-26.3/.emacs.d/modules/completion/ivy/autoload/ivy.el",
+		"/D/Software/doom-emacs-26.3/.emacs.d/core/core-projects.el",
+		"/D/Software/doom-emacs-26.3/.emacs.d/.local/straight/build/projectile/projectile.el",
+		"/D/Software/doom-emacs-26.3/.emacs.d/.local/straight/repos/counsel-projectile/counsel-projectile.el",
+		"/D/Software/doom-emacs-26.3/.emacs.d/.local/autoloads.el",
+		"/D/Software/doom-emacs-26.3/.emacs.d/core/autoload/projects.el",
+		"/D/Software/doom-emacs-26.3/.emacs.d/init.el",
+		"/D/Software/doom-emacs-26.3/.emacs.d/.local/autoloads.pkg.el",
+		"/D/Software/doom-emacs-26.3/.emacs.d/.local/straight/build/counsel-projectile/counsel-projectile.el",
+		"/D/Software/emacs-26.3-x86_64/.spacemacs",
+		"/D/Software/doom-emacs-26.3/.emacs.d/.local/straight/repos/projectile/projectile.el",
+		"/D/Software/doom-emacs-26.3/.emacs.d/.local/cache/projectile.cache",
+		"/C/Users/ChangJie.Qiu/AppData/Roaming/.doom.d/init.el",
+		"/D/Software/doom-emacs-26.3/.emacs.d/modules/term/eshell/autoload/company.el",
+		"/C/Users/ChangJie.Qiu/Desktop/fc2_encryptor.py",
+		"/D/Software/doom-emacs-26.3/.emacs.d/modules/tools/lsp/README.org",
+		"/C/Users/ChangJie.Qiu/Desktop/xxtea_encryptor.py",
+		"/H/workspace/SpeedRace2/BombSpeedRace2/Assets/ArtResources/Character/Common/Materials/NewUnlitShader.shader",
+		"/D/Software/doom-emacs-26.3/.emacs.d/.local/straight/build/counsel/counsel.el",
+		"/D/Software/doom-emacs-26.3/.emacs.d/.local/cache/projectile.projects",
+		"/C/Users/ChangJie.Qiu/AppData/Roaming/.doom.d/packages.el",
+		"/C/Users/ChangJie.Qiu/AppData/Roaming/.doom.d/config.el",
+		"/D/Software/doom-emacs-26.3/.emacs.d/core/core-keybinds.el",
+		"/C/Users/ChangJie.Qiu/Desktop/ChocolateyInstallNonAdmin.ps1",
+		"/H/workspace/SpeedRace2/BombSpeedRace2/Assets/LuaScripts/Framework/UI/Base/UIBaseView.lua",
+		"/H/workspace/SpeedRace2/BombSpeedRace2/Assets/LuaScripts/Framework/UI/UIManager.lua",
+		"/H/workspace/SpeedRace2/BombSpeedRace2/Assets/LuaScripts/Framework/UI/Component/UICanvas.lua",
+		"/H/workspace/SpeedRace2/BombSpeedRace2/Assets/LuaScripts/Framework/UI/Util/UIUtil.lua",
+		"/C/Users/ChangJie.Qiu/Desktop/新建文本文档.txt",
+		"/D/Software/doom-emacs-26.3/.emacs.d/core/core-packages.el",
+		"/D/Software/doom-emacs-26.3/.emacs.d/init.example.el",
+		"/D/Software/doom-emacs-26.3/doom_modify/init.el",
+		"/D/Software/doom-emacs-26.3/.emacs.d/bin/doom-doctor",
+		"/H/workspace/SpeedRace2/BombSpeedRace2/AssetBundles/Android/Default/Default.manifest",
+		"/D/Software/vim/plugged/YouCompleteMe/.ycm_extra_conf.py",
+		"/D/Software/emacs-26.3-x86_64/.emacs.d/.cache/projectile-bookmarks.eld",
+		"/D/Software/emacs-26.3-x86_64/.emacs.d/.cache/projectile.cache",
+		"/D/Software/emacs-26.3-x86_64/.emacs.d/.cache/bookmarks",
+		"/D/Software/emacs-26.3-x86_64/.emacs.d/.cache/savehist",
+		"/D/Software/emacs-26.3-x86_64/.emacs.d/.cache/ido.last",
+		"/D/Software/emacs-26.3-x86_64/.emacs.d/.cache/recentf",
+		"/D/Software/emacs-26.3-x86_64/.emacs.d/.cache/spacemacs-buffer.el",
+		"/C/Users/ChangJie.Qiu/Desktop/data_JSON.log.2020-03-05_2235_android",
+		"/G/WXWorkData/WXWork/1688852069286372/Cache/File/2020-03/data_JSON.log.2020-03-05",
+		"/C/Users/ChangJie.Qiu/Desktop/build.log",
+		"/H/workspace/飞车相关/飞车服务器地址.txt",
+		"/H/workspace/SpeedRace2/BombSpeedRace2/Assets/LuaScripts/UI/UILotteryRewardItem/UILotteryRewardItemView.lua",
+		"/H/workspace/SpeedRace2/BombSpeedRace2/Assets/LuaScripts/UI/UIRaceItem/UIRaceItemView.lua",
+		"/H/workspace/SpeedRace2/BombSpeedRace2/Assets/LuaScripts/UI/UICarGarage/UICarGarage.lua",
+		"/H/workspace/SpeedRace2/BombSpeedRace2/Assets/LuaScripts/UI/UILottery/UILotteryView.lua",
+		"/H/workspace/SpeedRace2/BombSpeedRace2/Assets/Scripts/Common/Camera/Config/CameraFollowParams.cs",
+		"/H/workspace/SpeedRace2/BombSpeedRace2/Assets/LuaScripts/UI/UILotteryRewardItem/UILotteryRewardItemPopupCmd.lua",
+		"/H/workspace/SpeedRace2/BombSpeedRace2/Assets/LuaScripts/DataCenter/ActivityData.lua",
+		"/H/workspace/SpeedRace2/BombSpeedRace2/Assets/LuaScripts/UI/UILottery/UILotteryModel.lua",
+		"/H/workspace/SpeedRace2/BombSpeedRace2/Assets/LuaScripts/Config/ItemDataConfig.lua",
+		"/C/Users/ChangJie.Qiu/Desktop/202年出包时间.txt",
+		"/C/Users/ChangJie.Qiu/Desktop/camera_params_.txt",
+		"/H/workspace/SpeedRace2/BombSpeedRace2/Assets/Editor/XLua/GenConfig.cs",
+		"/H/workspace/SpeedRace2/BombSpeedRace2/AssetBundles/Android/Default/triggersetting/triggers_item.assetbundle.manifest",
+		"/H/workspace/SpeedRace2/BombSpeedRace2/AssetBundles/Android/Default/manifest.bytes",
+		"/H/workspace/SpeedRace2/BombSpeedRace2/Assets/LuaScripts/UI/UIDetails/UIDetailsInfo/UIDetailsInfo.lua",
+		"/H/workspace/SpeedRace2/BombSpeedRace2/Assets/LuaScripts/GameLogic/Settings/GameSettingManager.lua",
+		"/H/workspace/SpeedRace2/BombSpeedRace2/Assets/LuaScripts/Global/UIDefine.lua",
+		"/H/workspace/SpeedRace2/BombSpeedRace2/Assets/LuaScripts/UI/UIMain/UIMainView.lua",
+		"/H/workspace/SpeedRace2/BombSpeedRace2/Assets/LuaScripts/UI/UICarEnhance/UICarEnhanceView.lua",
+		"/H/workspace/SpeedRace2/BombSpeedRace2/Assets/LuaScripts/UI/UICarEnhance/UICarEnhanceReference.lua",
+		"/H/workspace/SpeedRace2/BombSpeedRace2/Assets/LuaScripts/Global/Define.lua",
+		"/H/workspace/SpeedRace2/BombSpeedRace2/Assets/LuaScripts/Config/SystemJumpMgr.lua",
+		"/H/workspace/SpeedRace2/BombSpeedRace2/Assets/LuaScripts/Framework/UI/Component/UIRawImage.lua",
+		"/H/workspace/SpeedRace2/BombSpeedRace2/Assets/LuaScripts/UI/UILottery/UILotteryCtrl.lua",
+		"/C/Users/ChangJie.Qiu/AppData/Roaming/.emacs"
+	],
+	"find":
+	{
+		"height": 40.8
+	},
+	"find_in_files":
+	{
+		"height": 107.2,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"Name\": \"assets/artresources/effect/texture/other.assetbundle",
+			"\"Name\" assets/artresources/effect/texture/other.assetbundle",
+			"assets/artresources/effect/texture/other.assetbundle",
+			"uclient",
+			"ima",
+			"org-directory",
+			"+lsp",
+			"doom-run-all-startup-hooks-h",
+			"Cannot determine Magit's",
+			"newer than byte-compiled file",
+			"doom-one",
+			"add-hook",
+			"projectile-find-file-hook",
+			"find file",
+			"projectile-cache-file",
+			"projectile.cache",
+			"projectile-current-project-files",
+			"projectile-find-file ",
+			"projectile-find-file",
+			"doom-project-find-file",
+			"projectile-find-file",
+			"projectile-cache-file",
+			"cache",
+			"doom-project-find-file",
+			"find file in project",
+			"eof",
+			"projectile-project-files",
+			"projectile-all-project-files",
+			"projectile-project-files",
+			"projectile-all-project-files",
+			"find file in project",
+			"find file:",
+			"doom-files-in",
+			"find-file",
+			"counsel-projectile-find-file-action",
+			"projectile-find-file",
+			"find-file",
+			"projectile-cache-file",
+			"cache",
+			"auto",
+			"complet",
+			"+lsp",
+			"xrange",
+			"projectile-git-command",
+			"projectile-svn-command",
+			"setq projectile-svn-command",
+			"\"Projectile is initializing cache for ",
+			"Projectile is initializing cache for",
+			"(replace ",
+			"projectile-cache-project",
+			"cache",
+			"Find file:",
+			" Find file:",
+			"\\\\r\"",
+			"\\\\r",
+			"counsel-git-cmd",
+			"Find file:",
+			"projectile-project-files",
+			"Find file in project",
+			"rg ",
+			"projectile-find-file",
+			"svn",
+			"projectile-git-command",
+			"rg",
+			"projectile",
+			"svn"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "D:\\Software\\doom-emacs-26.3\\.emacs.d"
+		},
+		{
+			"path": "C:\\Users\\ChangJie.Qiu\\AppData\\Roaming\\.doom.d"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/ChangJie.Qiu/AppData/Roaming/.doom.d/init.el",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8551,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								368,
+								368
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lisp/Lisp.sublime-syntax",
+							"tab_size": 7,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "modules/emacs/dired/config.el",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 7306,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								430,
+								430
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lisp/Lisp.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/ChangJie.Qiu/AppData/Roaming/.doom.d/config.el",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2404,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								492,
+								492
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lisp/Lisp.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "core/autoload/debug.el",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16544,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								267,
+								267
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lisp/Lisp.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/H/workspace/飞车相关/飞车服务器地址.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4578,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1697,
+								1697
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1167.2,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/H/workspace/SpeedRace2/BombSpeedRace2/AssetBundles/Android/Default/manifest.bytes",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2248691,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1247197,
+								1247207
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 450251.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"counsel-projectile.el",
+				".emacs.d\\.local\\straight\\repos\\counsel-projectile\\counsel-projectile.el"
+			],
+			[
+				"company",
+				".emacs.d\\modules\\term\\eshell\\autoload\\company.el"
+			],
+			[
+				"UICanvas",
+				"Framework\\UI\\Component\\UICanvas.lua"
+			],
+			[
+				"uibaseview",
+				"Framework\\UI\\Base\\UIBaseView.lua"
+			],
+			[
+				"uimanager",
+				"Framework\\UI\\UIManager.lua"
+			],
+			[
+				"uilotteryrewarditem",
+				"UI\\UILotteryRewardItem\\UILotteryRewardItemView.lua"
+			],
+			[
+				"UIlotteryrewarditemp",
+				"UI\\UILotteryRewardItem\\UILotteryRewardItemPopupCmd.lua"
+			],
+			[
+				"UILotteryMo",
+				"UI\\UILottery\\UILotteryModel.lua"
+			],
+			[
+				"itemd",
+				"Config\\ItemDataConfig.lua"
+			],
+			[
+				"uilottery",
+				"UI\\UILottery\\UILotteryView.lua"
+			],
+			[
+				"uicargarage",
+				"UI\\UICarGarage\\UICarGarage.lua"
+			],
+			[
+				"uicarenhanceview",
+				"UI\\UICarEnhance\\UICarEnhanceView.lua"
+			],
+			[
+				"UIMainView",
+				"UI\\UIMain\\UIMainView.lua"
+			],
+			[
+				"UIDefine",
+				"Global\\UIDefine.lua"
+			],
+			[
+				"uirawi",
+				"Framework\\UI\\Component\\UIRawImage.lua"
+			],
+			[
+				"ulotteryct",
+				"UI\\UILottery\\UILotteryCtrl.lua"
+			],
+			[
+				"uilotterymo",
+				"UI\\UILottery\\UILotteryModel.lua"
+			],
+			[
+				"uilotteryview",
+				"UI\\UILottery\\UILotteryView.lua"
+			],
+			[
+				"gamesetting",
+				"GameLogic\\Settings\\GameSettingManager.lua"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 252.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
